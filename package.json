@@ -1,0 +1,22 @@
+{
+  "name": "web-shop-davis",
+  "version": "1.0.0",
+  "description": "Shop Davis ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviDbrBoy/Web-Shop-Davis.git"
+  },
+  "author": "Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaviDbrBoy/Web-Shop-Davis/issues"
+  },
+  "homepage": "https://github.com/DaviDbrBoy/Web-Shop-Davis#readme",
+  "dependencies": {
+    "firebase": "^9.6.8"
+  }
+}
