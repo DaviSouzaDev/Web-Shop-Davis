@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/DaviDbrBoy/Web-Shop-Davis#readme",
   "dependencies": {
-    "firebase": "^9.6.8"
+    "firebase": "^8.10.0"
   }
 }
